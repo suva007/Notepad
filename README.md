@@ -49,6 +49,5 @@
 ## 10. Unsaved Changes:
 <img width="400" alt="image" src="https://github.com/suva007/Notepad/assets/38084433/53cafd48-464a-4cfe-962f-ff46ee8462e5">
 
-
-
+## :wink: Thanks
 
